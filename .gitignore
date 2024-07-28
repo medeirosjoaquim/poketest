@@ -83,7 +83,6 @@ public
 # Vue-cli 3.x generated directories
 dist/
 node_modules/
-src/
 
 # Serverless directories
 .serverless/
